@@ -90,10 +90,10 @@ graph LR
     B --> C[⚙️ Build]
     C --> D[🚀 Launch & Teach]
     
-    style A fill:#ffcccb
-    style B fill:#ffffcc
-    style C fill:#ccffcc
-    style D fill:#ccccff
+    style A fill:#FF595E
+    style B fill:#8AC926
+    style C fill:#1982C4
+    style D fill:#6A4C93
 ```
 
 1. **🔍 Discovery** — Goals, audience, and constraints. We define success together.
